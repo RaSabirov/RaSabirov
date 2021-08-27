@@ -1,6 +1,7 @@
 ![Header](https://github.com/RaSabirov/RaSabirov/blob/main/assets/logo.jpg)
 
 ### About me
+My name is Ravil Sabirov. I am 25 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.   
 :computer: I’m currently learning web-development in [YandexPracticum](https://practicum.yandex.ru/)
 
 
