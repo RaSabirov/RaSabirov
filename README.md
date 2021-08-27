@@ -3,7 +3,6 @@
 ### About me
 :computer: I’m currently learning web-development in [YandexPracticum](https://practicum.yandex.ru/)
 
-:left_speech_bubble: I’m a system administrator, working in the city of Innopolis. I dream of becoming a Frontend developer!
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
