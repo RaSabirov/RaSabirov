@@ -25,11 +25,11 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 
 - [Russian Travel](https://github.com/RaSabirov/russian-travel)
 
-- ![react](https://github.com/RaSabirov/RaSabirov/blob/main/assets/react.png) [Mesto Russian](https://github.com/RaSabirov/mesto)
+- [Mesto Russian](https://github.com/RaSabirov/mesto)
 
-- [Mesto Russian React](https://github.com/RaSabirov/mesto-react)
+- [Mesto Russian React](https://github.com/RaSabirov/mesto-react) ![react](https://github.com/RaSabirov/RaSabirov/blob/main/assets/react.png)
 
-- [Mesto Russian React with Authentication](https://github.com/RaSabirov/mesto-react)
+- [Mesto Russian React with Authentication](https://github.com/RaSabirov/mesto-react) ![react](https://github.com/RaSabirov/RaSabirov/blob/main/assets/react.png)
 
 ### Technology Stack
 
