@@ -1,24 +1,14 @@
-![Header](https://github.com/RaSabirov/RaSabirov/blob/main/assets/logo.jpg)
-
 ### About me
 
 Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.
+</br>
+💻 I’m currently learning JS and React
 
-- 🌱
-- 💻 I’m currently exploring new things in technology.
-
-### 📕 Courses
-
-- YandexPracticum - Web Developer
-
-- LearnJS - JavaScript
-
-- Vladilen Minin - YouTube videos
-
-- Lushchenko Alexander - YouTube videos
-
-- LearnJS
-  </br>
+🎨 Portfolio: https://github.com/RaSabirov?tab=repositories
+</br>
+💼 Resume: https://disk.yandex.ru/i/C3LSanDs47GLYg
+</br>
+</br>
 
 ### 🎓 My projects
 
@@ -26,11 +16,24 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 
 - :ru: [Russian Travel](https://github.com/RaSabirov/russian-travel)
 
-- ✈️ [Mesto Russian](https://github.com/RaSabirov/mesto)
+- 🛩️ [Mesto Russian](https://github.com/RaSabirov/mesto)
 
 - 💥 [Mesto Russian React](https://github.com/RaSabirov/mesto-react)
 
 - 🚀 [Mesto Russian React with Authentication](https://github.com/RaSabirov/mesto-react)
+
+### 📕 Courses
+
+- YandexPracticum - Web Developer
+
+- learn.javascript.ru
+
+- Vladilen Minin - YouTube videos
+
+- Lushchenko Alexander - YouTube videos
+
+</br>
+</br>
 
 ### 🔧 Technology Stack
 
