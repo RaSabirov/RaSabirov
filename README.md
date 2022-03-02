@@ -4,34 +4,35 @@
 
 Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.
 
--
-- 🌱 I’m currently exploring new things in technology.
+- 🌱
+- 💻 I’m currently exploring new things in technology.
 
 ### 📕 Courses
 
-- ❤️ [YandexPracticum - Web Developer]
+- YandexPracticum - Web Developer
 
-- [LearnJS - JavaScript]
+- LearnJS - JavaScript
 
-- [Vladilen Minin - YouTube videos]
+- Vladilen Minin - YouTube videos
 
-- [Lushchenko Alexander - YouTube videos]
+- Lushchenko Alexander - YouTube videos
 
-- [LearnJS]
+- LearnJS
+  </br>
 
-### ⚡ My projects
+### 🎓 My projects
 
-- [How to learn](https://github.com/RaSabirov/how-to-learn)
+- 📗 [How to learn](https://github.com/RaSabirov/how-to-learn)
 
-- [Russian Travel](https://github.com/RaSabirov/russian-travel)
+- :ru: [Russian Travel](https://github.com/RaSabirov/russian-travel)
 
-- [Mesto Russian](https://github.com/RaSabirov/mesto)
+- ✈️ [Mesto Russian](https://github.com/RaSabirov/mesto)
 
-- [Mesto Russian React](https://github.com/RaSabirov/mesto-react) ![react](https://github.com/RaSabirov/RaSabirov/blob/main/assets/react.png)
+- 💥 [Mesto Russian React](https://github.com/RaSabirov/mesto-react)
 
-- [Mesto Russian React with Authentication](https://github.com/RaSabirov/mesto-react) ![react](https://github.com/RaSabirov/RaSabirov/blob/main/assets/react.png)
+- 🚀 [Mesto Russian React with Authentication](https://github.com/RaSabirov/mesto-react)
 
-### Technology Stack
+### 🔧 Technology Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
