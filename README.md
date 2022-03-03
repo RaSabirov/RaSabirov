@@ -1,12 +1,11 @@
-### About me
+### 🙋‍♂️ About me
 
 Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.
 </br>
 💻 I’m currently learning JS and React
+I’m currently working on Frontend projects
 
-🎨 Portfolio: https://github.com/RaSabirov?tab=repositories
-</br>
-💼 Resume: https://disk.yandex.ru/i/C3LSanDs47GLYg
+🎨 All repositories: https://github.com/RaSabirov?tab=repositories
 </br>
 </br>
 
@@ -14,7 +13,7 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 
 - 📗 [How to learn](https://github.com/RaSabirov/how-to-learn)
 
-- :ru: [Russian Travel](https://github.com/RaSabirov/russian-travel)
+- 🔭 [Russian Travel](https://github.com/RaSabirov/russian-travel)
 
 - 🛩️ [Mesto Russian](https://github.com/RaSabirov/mesto)
 
@@ -32,6 +31,25 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 
 - Lushchenko Alexander - YouTube videos
 
+### 📈 Github Stats
+
+<details>
+  <summary>GitHub Profile Stats</summary>
+  <div>
+    <a href="https://github.com/RaSabirov">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaSabirov&layout=compact&langs_count=7&theme=gotham" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaSabirov&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+    </a>
+  </div>
+</details>
+<details>
+    <summary>Recent GitHub Activity</summary>
+    <div>
+        <a href="https://github.com/RaSabirov">
+        <img src="https://pacific-thicket-01737.herokuapp.com/graph?username=RaSabirov&theme=gotham"/>
+        </a>
+    </div>
+</details>
 </br>
 </br>
 
@@ -45,7 +63,7 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Follow me
+### 📝 Follow me
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/sbrvrvl)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sbrvrvl)
