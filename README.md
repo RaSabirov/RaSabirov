@@ -3,7 +3,6 @@
 Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.
 </br>
 💻 I’m currently learning JS and React
-I’m currently working on Frontend projects
 
 🎨 All repositories: https://github.com/RaSabirov?tab=repositories
 </br>
