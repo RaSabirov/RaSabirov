@@ -21,7 +21,6 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 - 💥 [Mesto Russian React](https://github.com/RaSabirov/mesto-react)
 
 - 🚀 [Mesto Russian React with Authentication](https://github.com/RaSabirov/react-mesto-auth)
-  .
 
 ### 📕 Courses
 
