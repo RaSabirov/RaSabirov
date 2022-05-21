@@ -1,6 +1,6 @@
 ### 🙋‍♂️ About me
 
-Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.
+Hi there, my name is Ravil Sabirov 👋 . I am 26 years old, living and working in the city of Innopolis. It’s an amazing city, analog to Silicon Valley, but in Russia.
 </br>
 💻 I’m currently learning JS and React
 
@@ -8,17 +8,37 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 </br>
 </br>
 
+### 🔧 Languages and Tools
+- Frontend: HTML, CSS, JS, React, Webpack
+
+- Backend: Node.js,  Express.js, MongoDB
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=html5&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-3DDC84?logo=mongodb&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+</br>
+</br>
+
 ### 🎓 My projects
 
-- 📗 [How to learn](https://github.com/RaSabirov/how-to-learn)
+- 📗 [How to learn (HTML, CSS)](https://github.com/RaSabirov/how-to-learn)
 
-- 🔭 [Russian Travel](https://github.com/RaSabirov/russian-travel)
+- 🔭 [Russian Travel (HTML, CSS)](https://github.com/RaSabirov/russian-travel)
 
-- 🛩️ [Mesto Russian](https://github.com/RaSabirov/mesto)
+- 🛩️ [Mesto (JavaScript)](https://github.com/RaSabirov/mesto)
 
-- 💥 [Mesto Russian React](https://github.com/RaSabirov/mesto-react)
+- 💥 [Mesto (React)](https://github.com/RaSabirov/mesto-react)
 
-- 🚀 [Mesto Russian React with Authentication](https://github.com/RaSabirov/react-mesto-auth)
+- 🚀 [Mesto with Authentication (React) ](https://github.com/RaSabirov/react-mesto-auth)
+
+- 🔮 [Mesto (Backend)](https://github.com/RaSabirov/express-mesto-gha)
+
+
 
 ### 📕 Courses
 
@@ -52,15 +72,6 @@ Hi there, my name is Ravil Sabirov 👋 . I am 25 years old, living and working 
 </br>
 </br>
 
-### 🔧 Technology Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📝 Follow me
 
