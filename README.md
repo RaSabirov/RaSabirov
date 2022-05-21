@@ -22,7 +22,6 @@ Hi there, my name is Ravil Sabirov 👋 . I am 26 years old, living and working 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 </br>
-</br>
 
 ### 🎓 My projects
 
