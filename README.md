@@ -15,9 +15,16 @@ Hi there! My name is Ravil Sabirov 👋. I'm 26 years old, living and working in
 - CI/CD: Jenkins, GitLab CI, Argo CD
 - Monitoring & Logging: Prometheus, Grafana, Alertmanager
 - Configuration Management: PyInfra, Ansible, Terraform, Helm
-- Database: Patroni+Postgres
+- Database: Patroni+PostgreSQL
+
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-E34F26?logo=kubernetes5&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=flat)
+![Ansible](https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&style=flat)
 
 
 ### Frontend Stack
