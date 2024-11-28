@@ -12,19 +12,22 @@ Hi there! My name is Ravil Sabirov 👋. I'm 26 years old, living and working in
 ### DevOps Tools & Technologies
 - Cloud Platforms: OpenStack
 - Containerization: Docker, Kubernetes
-- CI/CD: Jenkins, GitLab CI, Argo CD
+- CI/CD: Jenkins, GitLab CI, Argo CD, Gitea
 - Monitoring & Logging: Prometheus, Grafana, Alertmanager
 - Configuration Management: PyInfra, Ansible, Terraform, Helm
 - Database: Patroni+PostgreSQL
 
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/kubernetes-E34F26?logo=kubernetes5&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=flat)
-![Ansible](https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-E34F26?logo=kubernetes5&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=flat)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white&style=flat)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white&style=flat)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&style=flat)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&style=flat)
 
 
 ### Frontend Stack
