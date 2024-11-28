@@ -43,24 +43,6 @@ Hi there! My name is Ravil Sabirov 👋. I'm 26 years old, living and working in
 
 </br>
 
-### 🎓 My frontend projects
-
-- 📗 [How to learn (HTML, CSS)](https://github.com/RaSabirov/how-to-learn)
-- 🔭 [Russian Travel (HTML, CSS)](https://github.com/RaSabirov/russian-travel)
-- 🛩️ [Mesto (JavaScript)](https://github.com/RaSabirov/mesto)
-- 💥 [Mesto (React)](https://github.com/RaSabirov/mesto-react)
-- 🚀 [Mesto with Authentication (React) ](https://github.com/RaSabirov/react-mesto-auth)
-- 🔮 [Mesto (Backend)](https://github.com/RaSabirov/express-mesto-gha)
-- 🔐 [Mesto (Frontend + Backend)](https://github.com/RaSabirov/react-mesto-api-full)
-
-
-
-### 📕 Courses
-
-- YandexPracticum - Web Developer
-- learn.javascript.ru
-- Vladilen Minin - YouTube videos
-- Lushchenko Alexander - YouTube videos
 
 ### 📈 Github Stats
 
